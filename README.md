@@ -1,7 +1,7 @@
 # JojasValuables
 A R.E.P.O. Mod for me and my friends.
 
-How tto install:
+How to install:
 
 1. Install BepInEx
 2. Install REPOLib
